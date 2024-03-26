@@ -1,1 +1,2 @@
-# Walmart
+# Walmart Analysis (SQL)
+The objective of this project is to analyze Walmart Sales data, examining the performance of various branches and products, identifying sales trends, and understanding customer behavior. The goal is to investigate opportunities for enhancing and optimizing sales strategies. The dataset used in this analysis was sourced from [the Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting.
