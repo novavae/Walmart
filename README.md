@@ -3,13 +3,13 @@ The objective of this project is to analyze Walmart Sales data, examining the pe
 
 
 ## Analysis List
-A. Product Analysis
+A. Product Analysis:
 Perform an analysis of the data to gain insights into various product lines, identify the top-performing product lines, and pinpoint areas for improvement among product lines.
 
-B. Sales Analysis
+B. Sales Analysis:
 The objective of this analysis is to examine the sales trends of products, which will assist in evaluating the effectiveness of each sales strategy implemented by the business and determining necessary modifications to enhance sales performance.
 
-C. Customer Analysis
+C. Customer Analysis:
 The goal of this analysis is to identify various customer segments, analyze purchasing trends within each segment, and assess the profitability associated with each customer segment.
 
 Preview about dataset:
