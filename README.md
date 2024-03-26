@@ -2,14 +2,14 @@
 The objective of this project is to analyze Walmart Sales data, examining the performance of various branches and products, identifying sales trends, and understanding customer behavior. The goal is to investigate opportunities for enhancing and optimizing sales strategies. The dataset used in this analysis was sourced from https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting.
 
 
-Analysis List
-Product Analysis
+##Analysis List
+A. Product Analysis
 Perform an analysis of the data to gain insights into various product lines, identify the top-performing product lines, and pinpoint areas for improvement among product lines.
 
-Sales Analysis
+B. Sales Analysis
 The objective of this analysis is to examine the sales trends of products, which will assist in evaluating the effectiveness of each sales strategy implemented by the business and determining necessary modifications to enhance sales performance.
 
-Customer Analysis
+C. Customer Analysis
 The goal of this analysis is to identify various customer segments, analyze purchasing trends within each segment, and assess the profitability associated with each customer segment.
 
 Preview about dataset:
